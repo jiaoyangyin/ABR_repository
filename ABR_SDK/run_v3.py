@@ -6,7 +6,7 @@
 try:
     import numpy
 except Exception as e:
-    print e
+    print(e)
 import env_v5 as fixed_env
 import load_trace as load_trace
 # import matplotlib.pyplot as plt
